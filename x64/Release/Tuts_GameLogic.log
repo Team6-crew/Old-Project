@@ -1,0 +1,20 @@
+﻿  HungryDinosaur.cpp
+  main.cpp
+C:\temp\Visual Studio 2017\Projects\Game tech avec CUDA\Build\ncltech\SceneManager.h(53): warning C4267: 'return': conversion from 'size_t' to 'uint', possible loss of data
+c:\temp\visual studio 2017\projects\game tech avec cuda\build\tuts_gamelogic\Scene_PathFollowing.h(49): warning C4267: 'initializing': conversion from 'size_t' to 'uint', possible loss of data
+c:\temp\visual studio 2017\projects\game tech avec cuda\build\tuts_gamelogic\Scene_PathFollowing.h(49): warning C4267: 'initializing': conversion from 'size_t' to 'const uint', possible loss of data
+c:\temp\visual studio 2017\projects\game tech avec cuda\build\tuts_gamelogic\Scene_PathFollowing.h(240): warning C4267: 'initializing': conversion from 'size_t' to 'uint', possible loss of data
+c:\temp\visual studio 2017\projects\game tech avec cuda\build\tuts_gamelogic\Scene_PathFollowing.h(240): warning C4267: 'initializing': conversion from 'size_t' to 'const uint', possible loss of data
+c:\temp\visual studio 2017\projects\game tech avec cuda\build\tuts_gamelogic\Scene_PathFollowing.h(339): warning C4267: 'initializing': conversion from 'size_t' to 'uint', possible loss of data
+c:\temp\visual studio 2017\projects\game tech avec cuda\build\tuts_gamelogic\Scene_PathFollowing.h(339): warning C4267: 'initializing': conversion from 'size_t' to 'const uint', possible loss of data
+  MazeGenerator.cpp
+MazeGenerator.cpp(220): warning C4244: 'argument': conversion from '__int64' to 'uint', possible loss of data
+MazeGenerator.cpp(225): warning C4244: 'argument': conversion from '__int64' to 'uint', possible loss of data
+  MazeRenderer.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 5178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32.lib(glew.obj)' or at 'C:\temp\Visual Studio 2017\Projects\Game tech avec CUDA\Build\x64\Release\vc120.pdb'; linking object as if no debug info
+  Tuts_GameLogic.vcxproj -> C:\temp\Visual Studio 2017\Projects\Game tech avec CUDA\Build\x64\Release\Tuts_GameLogic.exe
+  Tuts_GameLogic.vcxproj -> C:\temp\Visual Studio 2017\Projects\Game tech avec CUDA\Build\x64\Release\Tuts_GameLogic.pdb (Full PDB)
